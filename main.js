@@ -22,3 +22,14 @@ for (let i = 1; i <= numero; i++) {
     factorial *= i;
 }
 console.log("04. El factorial de " + numero + " es: " + factorial);
+
+//05. Verificar si un número es primo.
+let numeroPrimo = 12;
+let esPrimo = true;
+for (let i = 2; i < numeroPrimo; i++) {
+    if (numeroPrimo % i == 0) {
+        esPrimo = false;
+        break;
+    }
+}
+console.log("05. ¿El número " + numeroPrimo + " es primo? " + esPrimo);
