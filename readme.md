@@ -11,7 +11,7 @@
 05. - [x] Verificar si un número es primo.
 06. - [x] Revertir una cadena de texto.
 07. - [x]  Calcular la suma de los primeros N números naturales.
-08. - [ ]  Encontrar el elemento más grande en un arreglo.
+08. - [x]  Encontrar el elemento más grande en un arreglo.
 09. - [ ]  Verificar si una palabra es un palíndromo.
 10. - [ ]  Generar un número aleatorio en un rango dado.
 

@@ -49,3 +49,8 @@ for (let i = 1; i <= n; i++) {
     suma += i;
 }
 console.log("07. La suma de los primeros " + n + " números naturales es: " + suma);
+
+// 08. Encontrar el elemento más grande en un arreglo.
+let arreglo = [100, 1, 10, 4, 15, 940, 18, 60];
+let elementoMayor = Math.max(...arreglo); // "La función Math.max() retorna el mayor de cero o más números dados como parámetros de entrada"
+console.log("08. El elemento más grande del arreglo [" + arreglo + "] es: " + elementoMayor);
