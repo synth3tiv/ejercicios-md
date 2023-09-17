@@ -14,3 +14,11 @@ let num1 = 50;
 let num2 = 100;
 let numeroMaximo = Math.max(num1, num2);
 console.log("03. El máximo entre " + num1 +" y " + num2 + " es: " + numeroMaximo);
+
+//04. Calcular el factorial de un número.
+let numero = 3;
+let factorial = 1;
+for (let i = 1; i <= numero; i++) {
+    factorial *= i;
+}
+console.log("04. El factorial de " + numero + " es: " + factorial);

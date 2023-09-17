@@ -7,7 +7,7 @@
 01. - [x] Calcular el área de un triángulo
 02. - [x] Convertir grados Celsius a Fahrenheit.
 03. - [x] Encontrar el máximo de dos números.
-04. - [ ] Calcular el factorial de un número.
+04. - [x] Calcular el factorial de un número.
 05. - [ ] Verificar si un número es primo.
 06. - [ ] Revertir una cadena de texto.
 07. - [ ]  Calcular la suma de los primeros N números naturales.
