@@ -9,7 +9,7 @@
 03. - [x] Encontrar el máximo de dos números.
 04. - [x] Calcular el factorial de un número.
 05. - [x] Verificar si un número es primo.
-06. - [ ] Revertir una cadena de texto.
+06. - [x] Revertir una cadena de texto.
 07. - [ ]  Calcular la suma de los primeros N números naturales.
 08. - [ ]  Encontrar el elemento más grande en un arreglo.
 09. - [ ]  Verificar si una palabra es un palíndromo.
