@@ -4,7 +4,7 @@
 
 ## JavaScript
 
-01. - [ ] Calcular el área de un triángulo
+01. - [x] Calcular el área de un triángulo
 02. - [ ] Convertir grados Celsius a Fahrenheit.
 03. - [ ] Encontrar el máximo de dos números.
 04. - [ ] Calcular el factorial de un número.
