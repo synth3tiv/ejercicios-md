@@ -30,7 +30,7 @@
 
 ## Python
 
-01. - [ ]  Calcular el perímetro de un cuadrado.
+01. - [x]  Calcular el perímetro de un cuadrado.
 02. - [ ]  Encontrar el mínimo y máximo de una lista de números.
 03. - [ ]  Verificar si una cadena de texto contiene solo dígitos.
 04. - [ ]  Calcular el factorial de un número utilizando una función recursiva.
