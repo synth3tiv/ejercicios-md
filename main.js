@@ -41,3 +41,11 @@ for (let i = cadena.length - 1; i >= 0; i--) {
     cadenaRevertida += cadena[i];
 }
 console.log("06. La cadena revertida de " + cadena + " es: " + cadenaRevertida);
+
+// 07. Calcular la suma de los primeros N números naturales.
+let n = 10;
+let suma = 0;
+for (let i = 1; i <= n; i++) {
+    suma += i;
+}
+console.log("07. La suma de los primeros " + n + " números naturales es: " + suma);
