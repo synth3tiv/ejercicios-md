@@ -13,7 +13,7 @@
 07. - [x]  Calcular la suma de los primeros N números naturales.
 08. - [x]  Encontrar el elemento más grande en un arreglo.
 09. - [ ]  Verificar si una palabra es un palíndromo.
-10. - [ ]  Generar un número aleatorio en un rango dado.
+10. - [x]  Generar un número aleatorio en un rango dado.
 
 ## Java
 
