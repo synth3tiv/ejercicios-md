@@ -17,7 +17,7 @@
 
 ## Java
 
-01. - [ ]  Calcular el área de un círculo.
+01. - [x]  Calcular el área de un círculo.
 02. - [ ]  Verificar si un número es par o impar.
 03. - [ ]  Encontrar el mínimo de tres números.
 04. - [ ]  Calcular la suma de los dígitos de un número.
